@@ -1,0 +1,7 @@
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\bin\Debug\PSExec.exe.config
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\bin\Debug\PSExec.exe
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\bin\Debug\PSExec.pdb
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\bin\Debug\System.Management.Automation.dll
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\obj\Debug\PSExec.csprojResolveAssemblyReference.cache
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\obj\Debug\PSExec.exe
+c:\users\charlie\documents\visual studio 2015\Projects\PSExec\PSExec\obj\Debug\PSExec.pdb

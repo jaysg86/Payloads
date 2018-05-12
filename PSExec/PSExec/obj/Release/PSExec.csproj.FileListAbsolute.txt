@@ -1,0 +1,46 @@
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\PSExec.exe.config
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\PSExec.exe
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\PSExec.pdb
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\JetBrains.Annotations.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\System.Management.Automation.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\JetBrains.Annotations.xml
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\obj\Release\PSExec.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\obj\Release\PSExec.exe
+C:\Users\Charlie\Documents\Visual Studio 2015\Projects\PSExec\PSExec\obj\Release\PSExec.pdb
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\PSExec.exe.config
+C:\Users\Jay\Documents\PSExec\PSExec\obj\Release\PSExec.exe
+C:\Users\Jay\Documents\PSExec\PSExec\obj\Release\PSExec.pdb
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\PSExec.exe
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\PSExec.pdb
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\JetBrains.Annotations.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\JetBrains.Annotations.xml
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.xml
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Jay\Documents\PSExec\PSExec\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\Jay\Documents\PSExec\PSExec\obj\Release\PSExec.csprojResolveAssemblyReference.cache
+D:\Documents\PSExec\PSExec\bin\Release\PSExec.exe.config
+D:\Documents\PSExec\PSExec\bin\Release\PSExec.exe
+D:\Documents\PSExec\PSExec\bin\Release\PSExec.pdb
+D:\Documents\PSExec\PSExec\bin\Release\JetBrains.Annotations.dll
+D:\Documents\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.dll
+D:\Documents\PSExec\PSExec\bin\Release\JetBrains.Annotations.xml
+D:\Documents\PSExec\PSExec\bin\Release\Microsoft.Win32.TaskScheduler.xml
+D:\Documents\PSExec\PSExec\bin\Release\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Documents\PSExec\PSExec\bin\Release\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Documents\PSExec\PSExec\bin\Release\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Documents\PSExec\PSExec\bin\Release\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Documents\PSExec\PSExec\bin\Release\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Documents\PSExec\PSExec\obj\Release\PSExec.csprojResolveAssemblyReference.cache
+D:\Documents\PSExec\PSExec\obj\Release\PSExec.exe
+D:\Documents\PSExec\PSExec\obj\Release\PSExec.pdb
